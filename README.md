@@ -169,15 +169,3 @@ Aditya Kumar(0.67), Priya Nair(0.58), Ananya Krishnan(0.35)
 > No external libraries (numpy, pandas, scikit-learn, etc.) were used, as per competition rules.
 
 ---
-
-## 🏆 Competition Details
-
-| Field | Details |
-|-------|---------|
-| Event | Redrob AI Campus Hackathon |
-| Powered by | McKinley Rice |
-| Type | Individual Competition |
-| Duration | 60 Minutes |
-| AI Tool Used | Redrob AI |
-| Language | Python |
-| Libraries | Standard only |
